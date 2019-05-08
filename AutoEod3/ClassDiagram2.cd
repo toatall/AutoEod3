@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AutoEod3.App" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoEod3.MainWindow" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAEAAAEAAIAAAAAAAEAAIAACAAYAACAAKAgAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoEod3.Node" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACI4ACACAAAARAAAAEUAAAgAAAAAAIAQAACAgAQgM=</HashCode>
+      <FileName>Models\Node.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AutoEod3.RunSettings" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAIAAgAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>RunSettings.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoEod3.Models.Settings" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAgAAAAAAIAAAAAAAAAikAAAIhAACAAAAABAAAA=</HashCode>
+      <FileName>Models\Connections.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AutoEod3.Models.Connection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAoAIAAAAAAAAAAgAAAAAAAACEAAAAAAAA=</HashCode>
+      <FileName>Models\Connections.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AutoEod3.Models.VariantConnections" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAEAACAAgAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Models\Connections.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AutoEod3.Models.Connections" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAQAAAAAAAAIAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Connections.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoEod3.Models.Facade" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAgBBAAMABCAAACAAAAACAIAQAAEAAI=</HashCode>
+      <FileName>Models\Facade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoEod3.Models.DAL.Header" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\DAL\Header.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoEod3.Models.DAL.SQL" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAQAABAAAAAQAAEFAAA=</HashCode>
+      <FileName>Models\DAL\SQL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AutoEod3.Models.Helper.DialogEvent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Models\Helper\DialogEvent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AutoEod3.Models.Helper.Events" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAIAAAAAABAAAAAAAAEAAAAAAAAAAAAAAAIAIA=</HashCode>
+      <FileName>Models\Helper\Events.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoEod3.Models.Helper.FileDir" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Models\Helper\FileDir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoEod3.Models.Helper.FileDirEvent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Helper\FileDirEvent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AutoEod3.Models.Helper.LogFile" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Helper\LogFile.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AutoEod3.Models.QBEConverter.AbstractConverter" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAABQAAAAAAAAAAJAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Models\QBEConverter\AbstractConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoEod3.Models.QBEConverter.ConverterSQLOld" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAEAAAIABAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\QBEConverter\ConverterSQLOld.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AutoEod3.Models.QBEConverter.QueryParams" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAABAAAAAAgEAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\QBEConverter\QueryParams.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoEod3.Models.QBEConverter.ShareConverter" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAEAAAAAAAAAAAAAAAAgAAAAAAAAAgAI=</HashCode>
+      <FileName>Models\QBEConverter\ShareConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoEod3.Models.Result.ProcessItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACAACAAQACAAEAAgAAgAAIAAAAAAABAAAAAQA=</HashCode>
+      <FileName>Models\Result\ProcessItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AutoEod3.Models.Result.ResultCSV" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAgAAAAgAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Result\ResultCSV.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AutoEod3.Properties.Resources" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoEod3.Properties.Settings" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAABAIIAAAAAAFAAAACAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="AutoEod3.CheckBoxId" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Node.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="AutoEod3.Models.Helper.IEvent" Collapsed="true">
+    <Position X="4.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Helper\IEvent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AutoEod3.Models.QBEConverter.IConverter" Collapsed="true">
+    <Position X="3" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQAAAAAAAAEAAAIABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\QBEConverter\IConverter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AutoEod3.Models.Result.IResult" Collapsed="true">
+    <Position X="6.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAgAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Result\IResult.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="AutoEod3.Models.Helper.TypeLog" Collapsed="true">
+    <Position X="3" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAABAAAAAAAAAAAAAAAEBAAAA=</HashCode>
+      <FileName>Models\Helper\IEvent.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AutoEod3.Models.Result.TypeResults" Collapsed="true">
+    <Position X="4.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAEAA=</HashCode>
+      <FileName>Models\Result\IResult.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

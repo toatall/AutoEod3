@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <connections name="Копии УФНС">
+        <connection connectionString="Server=u8600-app025;Database=Taxes01;Trusted_Connection=True;" description="8601" index="01" />
+      <connection connectionString="Server=u8600-app025;Database=Taxes02;Trusted_Connection=True;" description="8602" index="02" />
+      <connection connectionString="Server=u8600-app025;Database=Taxes03;Trusted_Connection=True;" description="8603" index="03" />
+    </connections>
+    <connections name="Текущии в ИФНС">
+        <connection connectionString="asdasds" database="Test" description="8605" index="03" />  
+    </connections>   
+</root>
